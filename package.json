@@ -1,0 +1,23 @@
+{
+  "name": "openai-storygen",
+  "version": "1.0.0",
+  "description": "generates stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigailmunsen/storygen.git"
+  },
+  "author": "abigail munsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abigailmunsen/storygen/issues"
+  },
+  "homepage": "https://github.com/abigailmunsen/storygen#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
